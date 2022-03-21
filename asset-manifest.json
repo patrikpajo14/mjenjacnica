@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mjenjacnica/static/css/main.216c8f39.css",
+    "main.js": "/mjenjacnica/static/js/main.12efe74e.js",
+    "index.html": "/mjenjacnica/index.html",
+    "main.216c8f39.css.map": "/mjenjacnica/static/css/main.216c8f39.css.map",
+    "main.12efe74e.js.map": "/mjenjacnica/static/js/main.12efe74e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.216c8f39.css",
+    "static/js/main.12efe74e.js"
+  ]
+}
